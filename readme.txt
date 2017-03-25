@@ -1,4 +1,4 @@
-#for geiko driver
+#for geiko driver, need geikodriver in your path
 export PATH=/home/userany/Downloads/_searchbot:$PATH
 
 #requirements
